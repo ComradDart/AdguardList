@@ -1,0 +1,8 @@
+||yandex.ru^$removeparam=ad-id
+||yandex.ru^$removeparam=actual-format
+||yandex.ru^$removeparam=banner-sizes
+||yandex.ru^$removeparam=partner-stat-id
+yandex.ru##.e12ea5840
+yandex.ru##.v2a858ab7
+yandex.ru##.je8a9cce
+yandex.ru##.ae9b44887
