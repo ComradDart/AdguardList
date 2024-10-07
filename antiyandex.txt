@@ -9,3 +9,4 @@ yandex.ru##.ae9b44887
 ##div[data-name="adaptiveConstructorAd"]
 yandex.ru##.market-feed__title-wrapper--market-feed-d0aec
 yandex.ru##.market-feed__list-wrapper--market-feed-a83f8
+yandex.ru##.main-home-banner__content
