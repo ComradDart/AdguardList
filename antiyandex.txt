@@ -6,3 +6,4 @@ yandex.ru##.e12ea5840
 yandex.ru##.v2a858ab7
 yandex.ru##.je8a9cce
 yandex.ru##.ae9b44887
+##div[data-name="adaptiveConstructorAd"]
